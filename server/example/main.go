@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	godebugbar "github.com/user/godebugbar"
+	godebugbar "github.com/pitchinnate/godebugbar/server"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

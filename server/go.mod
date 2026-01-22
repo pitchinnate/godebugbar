@@ -1,4 +1,4 @@
-module github.com/pitchinnate/godebugbar
+module github.com/pitchinnate/godebugbar/server
 
 go 1.25.5
 

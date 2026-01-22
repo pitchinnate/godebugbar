@@ -13,7 +13,7 @@ A debug bar package for Go web applications, similar to Laravel's debug bar. Sup
 ## Installation
 
 ```bash
-go get github.com/user/godebugbar
+go get github.com/pitchinnate/godebugbar/server
 ```
 
 ## Quick Start
@@ -23,7 +23,7 @@ package main
 
 import (
     "github.com/gin-gonic/gin"
-    godebugbar "github.com/user/godebugbar"
+    godebugbar "github.com/pitchinnate/godebugbar/server"
     "gorm.io/driver/sqlite"
     "gorm.io/gorm"
 )
